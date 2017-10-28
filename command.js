@@ -53,6 +53,7 @@ var Calculator = function () {
     }
 }
  
+ 
 // log helper
  
 var log = (function () {
